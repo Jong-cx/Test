@@ -3,4 +3,5 @@ let's do something interesting
 maybe python and scrybe
 git remote add origin https://github.com/Jong-cx/Test.git
 git push -u  origin master
+git checkout -- 1.txt   #to clear the words,which is saved,but  not submitad
 

@@ -1,6 +1,6 @@
 ok,this is my first project
 let's do something interesting
 maybe python and scrybe
-
-
+git remote add origin https://github.com/Jong-cx/Test.git
+git push -u  origin master
 
